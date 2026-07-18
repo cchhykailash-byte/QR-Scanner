@@ -1,3 +1,3 @@
-# My First Streamlit App
-
-This is my first Streamlit application deployed on Render.
+# Streamlit base QR generator App
+welcome to my QR generator code . 
+Thank you for visiting
